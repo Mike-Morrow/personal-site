@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mike&#39;s Site</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on Mike&#39;s Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 26 Mar 2025 13:58:52 -0400</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Deploying Hugo Bear Blog on Netlify</title>
+      <link>//localhost:1313/blog/documentation-post/</link>
+      <pubDate>Wed, 26 Mar 2025 13:58:52 -0400</pubDate>
+      <guid>//localhost:1313/blog/documentation-post/</guid>
+      <description>&lt;p&gt;This guide walks through the process of setting up a personal blog using the Hugo Bear Blog theme and deploying it on Netlify.&lt;/p&gt;&#xA;&lt;h2 id=&#34;1-create-a-new-hugo-site&#34;&gt;1. Create a New Hugo Site&lt;/h2&gt;&#xA;&lt;p&gt;Start by installing Hugo and creating a new site:&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-toml&#34; data-lang=&#34;toml&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;# Install Hugo (this varies by OS, example using Homebrew on macOS)&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;brew&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;install&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;hugo&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;# Create a new site&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;hugo&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;new&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;site&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;my-bear-blog&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;cd&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;my-bear-blog&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;2-add-the-bear-blog-theme&#34;&gt;2. Add the Bear Blog Theme&lt;/h2&gt;&#xA;&lt;p&gt;Add the Bear Blog theme as a git submodule:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Test</title>
+      <link>//localhost:1313/documentation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/documentation/</guid>
+      <description>&lt;p&gt;This is a test&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
