@@ -18,7 +18,7 @@ This guide walks through the process of setting up a personal blog using the Hug
 
 Start by installing Hugo and creating a new site:
 
-```bash
+```shell
 # Install Hugo (this varies by OS, example using Homebrew on macOS)
 brew install hugo
 
@@ -31,7 +31,7 @@ cd my-bear-blog
 
 Add the Bear Blog theme as a git submodule:
 
-```bash
+```shell
 # Initialize git repository
 git init
 
@@ -59,7 +59,7 @@ theme = "hugo-bearblog"
 
 Add some initial content to your site:
 
-```bash
+```shell
 hugo new posts/my-first-post.md
 ```
 
@@ -87,7 +87,7 @@ Create a `netlify.toml` file in your project root:
 
 Commit your changes and push to a new GitHub repository:
 
-```bash
+```shell
 # Add all files
 git add .
 git commit -m "Initial commit with Bear Blog theme"
@@ -100,7 +100,7 @@ git push -u origin main
 
 If you get an error that the remote already exists, you can remove it first:
 
-```bash
+```shell
 git remote remove origin
 git remote add origin https://github.com/yourusername/your-repo-name.git
 ```
