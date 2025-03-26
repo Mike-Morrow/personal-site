@@ -1,3 +1,15 @@
++++
+title = "How I got started docs"
+date = "2025-03-26T13:58:52-04:00"
+
+#
+# description is optional
+#
+# description = "documentation for my website"
+
+tags = []
++++
+
 # Deploying Hugo Bear Blog on Netlify
 
 This guide walks through the process of setting up a personal blog using the Hugo Bear Blog theme and deploying it on Netlify.
@@ -135,3 +147,4 @@ To customize your Bear Blog theme:
 - Enable HTTPS
 - Add more content to your blog
 - Customize the theme to your liking
+
