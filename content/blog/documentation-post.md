@@ -11,6 +11,9 @@ This guide walks through the process of setting up a personal blog using the Hug
 ## 1. Create a New Hugo Site
 
 Start by installing Hugo and creating a new site:
+here is image im pasting:
+![](/Brave%20Browser%202025-03-26%2021.37.42.png)
+![](/Brave%20Browser%202025-03-27%2013.50.05.png)
 
 ```toml
 # Install Hugo (this varies by OS, example using Homebrew on macOS)

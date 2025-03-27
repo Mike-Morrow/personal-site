@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/documentation.md",
+                "file": "content/blog/documentation-post.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "documentation"
+              "title": "documentation-post"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 402.5
   },
   "right": {
     "id": "e1c17a71cb2d7e7e",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/documentation.md",
+                "file": "content/blog/documentation-post.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for documentation"
+              "title": "Backlinks for documentation-post"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/documentation.md",
+                "file": "content/blog/documentation-post.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from documentation"
+              "title": "Outgoing links from documentation-post"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/documentation.md",
+                "file": "content/blog/documentation-post.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of documentation"
+              "title": "Outline of documentation-post"
             }
           }
         ]
@@ -170,7 +170,25 @@
   },
   "active": "1b4464bb0623001f",
   "lastOpenFiles": [
+    "public/images/Brave Browser 2025-03-27 13.50.05.png",
+    "static/images/Brave Browser 2025-03-27 13.50.05.png",
+    "public/images/Brave Browser 2025-03-26 21.50.42.png",
+    "static/images/Brave Browser 2025-03-26 21.50.42.png",
+    "public/Brave Browser 2025-03-26 21.37.42.png",
+    "static/images/Brave Browser 2025-03-26 21.37.42 1.png",
     "content/blog/documentation-post.md",
+    "public/images/Brave Browser 2025-03-26 21.37.42 1.png",
+    "public/images/Brave Browser 2025-03-26 21.37.42.png",
+    "static/images/Brave Browser 2025-03-26 21.37.42.png",
+    "Brave Browser 2025-03-26 16.56.43.png",
+    "Brave Browser 2025-03-26 16.56.24.png",
+    "content/test.md",
+    "public/images",
+    "static/images",
+    "public/untitled folder",
+    "static/untitled folder",
+    "public/test/index.html",
+    "public/test",
     "content/documentation.md"
   ]
 }
